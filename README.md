@@ -1,5 +1,5 @@
 # Mawareeth
-It is a python GUI application for calculation the portion of every heir according to the doctrine of **MY RELIGION ISLAM**.
+It is a python GUI application for calculating the portion of every heir according to the doctrine of **MY RELIGION ISLAM**.
 
 # Operation
 Open the app from the gui.py file.
